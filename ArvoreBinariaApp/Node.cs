@@ -1,8 +1,7 @@
 ﻿namespace ArvoreBinariaApp
 {
-    using System;
-    using System.Linq;
 
+    // nome da classe Node é referencia a nó
     public class Node
     {
         public int Valor;
